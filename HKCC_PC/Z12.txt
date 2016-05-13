@@ -1,0 +1,89 @@
+Trade Z12 portfolio
+
+Bar period          4 hours (avg 356 min)
+Trade period        15.03.2016-22.03.2016
+
+Gross win/loss      1246$ / -198$ (+555p)
+Virtual win/loss    1435$ / -196$
+Average profit      52165$/year, 4347$/month, 201$/day
+Max drawdown        -78$ 7% (MAE -230$ 22%)
+Max down time       20 hours from Mar 2016
+Max open margin     334$
+Max open risk       6243$
+Trade volume        195673$ (9744922$/year)
+Transaction costs   -14$ spr, 9.17$ slp, -8.37$ rol, -11$ com
+Capital required    568$
+
+Number of trades    13 (648/year, 13/week, 3/day)
+Percent winning     69%
+Max win/loss        516$ / -167$
+Avg trade profit    81$ 42.7p (+73.3p / -26.2p)
+Avg trade slippage  0.71$ 0.4p (+0.5p / -0.0p)
+Avg trade bars      12 (+11 / -14)
+Max trade bars      22 (3 days)
+Max open trades     9
+Max loss streak     1
+
+Annual return       9192%
+Profit factor       6.29 (PRR 2.79)
+Sharpe ratio        11.64
+Kelly criterion     1.43
+R2 coefficient      0.000
+Ulcer index         10.1%
+
+Portfolio analysis  OptF  ProF  Win/Loss  Result
+
+AUD/USD avg         .059  ++++    2/0     +196$  
+EUR/USD avg         .055  13.32    3/1    +300$  
+GBP/USD avg         .061  ++++    2/0     +358$  
+GER30 avg           .042  ----    0/0       +0$  
+NAS100 avg          .038  ----    0/0       +0$  
+SPX500 avg          .036  ----    0/0       +0$  
+UK100 avg           .027  0.00    0/1       -4$  
+US30 avg            .016  ----    0/0       +0$  
+USD/CAD avg         .061  ++++    1/0     +516$  
+USD/CHF avg         .086  ++++    1/0      +13$  
+USD/JPY avg         .060  0.00    0/1     -167$  
+XAG/USD avg         .019  ++++    1/0      +28$  
+XAU/USD avg         .025  ----    0/0       +0$  
+
+A2 avg              .033  ++++    1/0      +13$  
+BB avg              .066  ++++    1/0      +28$  
+CT avg              .043  ++++    1/0      +64$  
+CY avg              .030  ++++    2/0     +315$  
+ES avg              .036  ----    0/0       +0$  
+HP avg              .072  26.99    3/1    +632$  
+HU avg              .041  0.00    0/2     -172$  
+LP avg              .046  ----    0/0       +0$  
+VO avg              .061  ++++    2/0     +358$  
+
+AUD/USD:CT          .085  ++++    1/0      +64$  
+AUD/USD:CT:L        .085  ----    0/0       +0$  
+AUD/USD:CT:S        .085  ++++    1/0      +64$  
+AUD/USD:HP          .117  ++++    1/0     +132$  
+AUD/USD:HP:L        .175  ++++    1/0     +132$  
+AUD/USD:HP:S        .099  ----    0/0       +0$  
+EUR/USD:CY          .102  ++++    2/0     +315$  
+EUR/USD:CY:L        .092  ++++    2/0     +315$  
+EUR/USD:CY:S        .108  ----    0/0       +0$  
+EUR/USD:HP          .092  0.37    1/1      -15$  
+EUR/USD:HP:L        .140  0.37    1/1      -15$  
+EUR/USD:HP:S        .076  ----    0/0       +0$  
+GBP/USD:VO          .113  ++++    2/0     +358$  
+GBP/USD:VO:L        .110  ++++    2/0     +358$  
+GBP/USD:VO:S        .116  ----    0/0       +0$  
+UK100:HU            .075  0.00    0/1       -4$  
+UK100:HU:L          .000  ----    0/0       +0$  
+UK100:HU:S          .094  0.00    0/1       -4$  
+USD/CAD:HP          .113  ++++    1/0     +516$  
+USD/CAD:HP:L        .107  ----    0/0       +0$  
+USD/CAD:HP:S        .117  ++++    1/0     +516$  
+USD/CHF:A2          .074  ++++    1/0      +13$  
+USD/CHF:A2:L        .251  ++++    1/0      +13$  
+USD/CHF:A2:S        .000  ----    0/0       +0$  
+USD/JPY:HU          .067  0.00    0/1     -167$  
+USD/JPY:HU:L        .097  0.00    0/1     -167$  
+USD/JPY:HU:S        .000  ----    0/0       +0$  
+XAG/USD:BB          .074  ++++    1/0      +28$  
+XAG/USD:BB:L        .000  ----    0/0       +0$  
+XAG/USD:BB:S        .086  ++++    1/0      +28$  
